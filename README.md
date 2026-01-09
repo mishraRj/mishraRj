@@ -28,14 +28,14 @@
 - 🎬 **[RJTV Universe (Fullstack OTT)](https://rjtv-universe.onrender.com/)**  
   Full-stack OTT platform with Google OAuth, personalized UI & Cloudinary integration. [Repo](https://github.com/mishraRj/RJTV-Universe)
 
+- 📂 **[Version Control System (GitHub Clone)](https://version-control-systemrj.onrender.com)**  
+  ⚠️ *This project is currently under development (MERN stack).* [Repo](https://github.com/mishraRj/Version-Control-System)
+
 - 🏡 **[Vacation Rental Booking Platform](https://airbnb-replica-b13p.onrender.com/listings)**  
   Airbnb-style rental booking with authentication & role-based authorization. [Repo](https://github.com/mishraRj/Vacation-Rental-Booking-Platform)
 
 - 🌌 **[Personal Portfolio](https://my-portfolio-three-green-92.vercel.app/)**  
   React + Tailwind stellar-themed portfolio with theme toggle & animations. [Repo](https://github.com/mishraRj/My_Portfolio)
-
-- 📂 **[Version Control System (GitHub Clone)](https://version-control-systemrj.onrender.com)**  
-  ⚠️ *This project is currently under development (MERN stack).* [Repo](https://github.com/mishraRj/Version-Control-System)
  
 
 ---
